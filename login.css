@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    background-color: papayawhip;
+}
+#first_div,#second_div{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Button_color{
+    background-color: darkseagreen;
+    width: 200px; 
+    font-size: larger;
+}
